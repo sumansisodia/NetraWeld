@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Crete Round';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Crete Round'), local('CreteRound-Regular'), url(http://fonts.gstatic.com/s/creteround/v5/ZCcPJiCGOzh84o2siPk48Y4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Parisienne';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Parisienne'), local('Parisienne-Regular'), url(http://fonts.gstatic.com/s/parisienne/v4/1wiHF6pWOa568Cj3p-anxPk_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+}
